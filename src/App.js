@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Reply from VS Code123343
+      Reply from VS
     </div>
   );
 }
