@@ -32,7 +32,7 @@ jobs:
         cmd: install # npm install/ yarn install
     
     - name: Creating build
-      run: yarn build ./
+      run: yarn build ./bootcamp_react_app
     
     - name: installing surge  
       run: npm install -g surge
